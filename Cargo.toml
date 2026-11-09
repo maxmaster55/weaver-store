@@ -1,0 +1,11 @@
+[package]
+name = "weaver-store"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Reactive state for apps, games and tools: signals, computed values, effects, batching, undo/redo and snapshots"
+repository = "https://github.com/maxmaster55/weaver-store"
+keywords = ["reactive", "signals", "state", "undo", "redo"]
+categories = ["data-structures", "gui", "game-development"]
+
+[dependencies]
